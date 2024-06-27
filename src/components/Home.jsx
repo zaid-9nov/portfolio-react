@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/pic1.jpg";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -37,11 +37,14 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              <h3 className="text-xl font-bold">Hi Guys !</h3>
+              I have been always a curious person and I believe in being optimistic and ready to accept challenges and changes at all times. My objective is - 'To learn & adapt new technology to enhance my skill'.
+              <br />
+              <br />
+              I have excellent academic record and keen interest in the field of
+              software engineering and development.
+              I have successfully developed multiple projects that showcase my ability to create
+              intuitive user interfaces and interactive experiences.
             </p>
             <br />
             {/* social media icons */}
@@ -55,7 +58,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/in/zaid-mansoori-471214261//" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
@@ -85,7 +88,7 @@ function Home() {
           <div className="md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1">
             <img
               src={pic}
-              className="rounded-full md:w-[450px] md:h-[450px]"
+              className="rounded-3xl md:w-[300px] md:h-[450px] "
               alt=""
             />
           </div>

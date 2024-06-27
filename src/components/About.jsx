@@ -8,51 +8,34 @@ function About() {
     >
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
-        <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
-          visually stunning Software solutions that leave a lasting impression.
-        </p>
-        <br />
+        
         <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
+          Education
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Maulana Azad National Institute of Technology, Bhopal, [B.Tech-Computer Science & Engg] -2025<br />
+          Jawahar Navodaya Vidyalaya,Vidisha [XII] -2021<br />
+          Jawahar Navodaya Vidyalaya,Vidisha [X] -2019<br />          
         </span>
-        <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
+          Proficient in C/C++, Experienced with Web Development Skills, VS Code, Git/GitHub <br />
+           Strong grasp of Data Structure & Algorithms, Object-oriented Programming, Operating System, DataBase Management System
+          Excellent problem-solving skills, Effective communicator and
           collaborator
         </span>
         <br />
         <br />
+
         <h1 className="text-green-600 font-semibold text-xl">
-          Professional Experience
+          Achievements
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Achievements & Awards
-        </h1>
-        <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          Solved <b>500+</b> Coding Problems on various Platform <br />
+          Scored <b>98.3%ile</b> in Joint Entrance Exam Mains 2021
         </span>
         <br />
         <br />
@@ -61,7 +44,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative software solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.
